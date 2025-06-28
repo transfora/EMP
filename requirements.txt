@@ -1,0 +1,19 @@
+# Excel Mail Processor v6.0 Final
+# Зависимости, совместимые с Python 3.7-3.10 на REG.RU
+
+# Работа с почтой
+imap-tools==1.7.2
+
+# Обработка Excel файлов  
+openpyxl==3.1.2
+pandas==1.3.5
+
+# HTTP запросы
+requests==2.27.1
+
+# Переменные окружения
+python-dotenv==0.21.1
+
+# Дополнительные зависимости для pandas на Python 3.7
+numpy==1.21.6
+pytz==2023.3
